@@ -75,16 +75,12 @@ width: auto;
 <h1 id="upLoad"></h1>
 <p><canvas id="cvs" style="display: none"></p>
 <p>
-<button id="dpwload" onclick="drawImage()">Buat twibbon!</button>
-<a href="#" id="dpwload2" download="download.png" style="display: none">Download twibbon!</a>
-<button id="cancel" onclick="location.reload()">Cancel</button>
+<button class="btn info" id="dpwload" onclick="drawImage()">Buat twibbon!</button>
+<a class="btn success" href="#" id="dpwload2" download="download.png" style="display: none">Download twibbon!</a>
+<button class="btn danger" id="cancel" onclick="location.reload()">Cancel</button>
 </p>
 </main>
 <script type="text/javascript" src="app.js"></script>
-<script>
-function drawImage() {
-  document.getElementById("upLoad").innerHTML = "Image Kosong!";
-}
-</script>
+
 </body>
 </html>
