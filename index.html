@@ -84,6 +84,20 @@ width: auto;
 </p>
 </main>
 <script type="text/javascript" src="app.js"></script>
+<script type="text/javascript">
+$(document).ready(function() {
+    $('#dpwload2').bind("click",function() 
+    { 
+        var imgVal = $('#fileInput').val(); 
+        if(imgVal=='') 
+        { 
+            alert("empty input file"); 
 
+        } 
+        return false; 
+
+    }); 
+});
+</script> 
 </body>
 </html>
