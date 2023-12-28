@@ -1,8 +1,3 @@
-/* light-mineral theme v1.0.0 by Axorax - https://github.com/Axorax/mit-license-themes-axorax
- * MIT License - https://axorax.mit-license.org/
- * Preview - https://axorax.github.io/mit-license-themes-axorax/preview?theme=light-mineral
- */
-
 @import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap');
 
 body {
@@ -22,7 +17,7 @@ a:hover, a:focus {
     text-decoration: underline;
 }
 
-article, footer {
+article {
     width: 51.5rem;
     max-width: calc(100% - 6rem);
     margin: 1.2em auto 0 auto;
