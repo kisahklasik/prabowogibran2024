@@ -15,6 +15,7 @@ a {
 }
 
 a:hover, a:focus {
+    font-size: 16px;
     text-decoration: none;
 }
 
