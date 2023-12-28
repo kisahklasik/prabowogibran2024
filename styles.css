@@ -10,12 +10,20 @@ body {
 
 a {
     font-size: 16px;
+    border: none; /* Remove borders */
+    color: white; /* Add a text color */
+    padding: 14px 28px; /* Add some padding */
+    cursor: pointer; /* Add a pointer cursor on mouse-over */
     text-decoration: none;
     color: #1152f6;
 }
 
 a:hover, a:focus {
     font-size: 16px;
+    border: none; /* Remove borders */
+    color: white; /* Add a text color */
+    padding: 14px 28px; /* Add some padding */
+    cursor: pointer; /* Add a pointer cursor on mouse-over */
     text-decoration: none;
 }
 
