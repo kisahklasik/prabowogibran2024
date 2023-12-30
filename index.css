@@ -4,11 +4,19 @@ margin: 0;
 padding: 0;
 font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
-main, footer {
+main {
 width: 800px;
 margin: 5em auto;
 padding: 4em;
 background-color: #fdfdff;
+border-radius: 0.5em;
+box-shadow: 2px 3px 7px 2px rgba(0,0,0,0.02);
+}
+footer {
+width: 800px;
+margin: 2em auto;
+padding: 4em;
+background-color: #f0f0f2;
 border-radius: 0.5em;
 box-shadow: 2px 3px 7px 2px rgba(0,0,0,0.02);
 }
