@@ -21,8 +21,8 @@ const externalHTML = `
 <label class="btn black" for="fileInput">Pilih file</label>
 <button style="font-family:Inconsolata;" class="btn blue" id="dpwload" onclick="drawImage()">Buat</button>
 <a class="btn" href="#" id="dpwload2" download="prabowogibran02.png" style="display: none; color:white;">Download</a>
-<button style="font-family:Inconsolata;" class="share gray">Share</button>
 </p>
+<p><span>Share</span></p>
 <p class="result"></p>
 </main>
 <footer>
