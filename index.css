@@ -12,6 +12,8 @@ padding: 4em;
 background-color: #fdfdff;
 border-radius: 0.5em;
 box-shadow: 2px 3px 7px 2px rgba(0,0,0,0.02);
+border: 1px solid;
+border-color: #ddd #aaa #aaa #ddd;
 }
 footer {
 width: 800px;
