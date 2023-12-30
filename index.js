@@ -20,7 +20,7 @@ const externalHTML = `
 <input type="file" id="fileInput" accept="image/png, image/jpeg" hidden/>
 <label class="btn black" for="fileInput">Pilih file</label>
 <button style="font-family:Inconsolata;" class="btn blue" id="dpwload" onclick="drawImage()">Buat</button>
-<a class="btn" href="#" id="dpwload2" download="download.png" style="display: none; color:white;">Download</a>
+<a class="btn" href="#" id="dpwload2" download="prabowogibran02.png" style="display: none; color:white;">Download</a>
 </p>
 </main>
 <footer>
