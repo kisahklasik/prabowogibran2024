@@ -1,8 +1,8 @@
 const main = document.getElementById('root');
 
 const externalHTML = `
+<header></header>
 <main>
-
 <h1>PRABOWO - GIBRAN CAPRES DAN CAWAPRES 2024</h1>
 <hr>
 <p><b>Yuk, nyoblos!</b> bersama netizen siap menangkan Prabowo - Gibran terpilih menjadi Presiden dan Wakil Presiden 2024.</p>
