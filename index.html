@@ -50,13 +50,13 @@ text: 'Yuk, nyoblos! bersama netizen siap menangkan Prabowo - Gibran terpilih me
 url: 'https://prabowogibrans02.vercel.app/',
 }
 
-const btn = document.querySelector('button');
+const btn = document.querySelector('share');
 const resultPara = document.querySelector('.result');
 
 btn.addEventListener('click', () => {
 navigator.share(shareData)
 .then(() =>
-resultPara.textContent = 'MDN shared successfully'
+resultPara.textContent = 'Twibbon berhasil dibagikan'
 )
 .catch((e) =>
 resultPara.textContent = 'Error: ' + e
