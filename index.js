@@ -22,13 +22,9 @@ const externalHTML = `
 <button class="btn blue" id="dpwload" onclick="drawImage()">Buat</button>
 <a class="btn" href="#" id="dpwload2" download="download.png" style="display: none; color:white;">Download</a>
 </p>
-
-<p></p>
-<hr>
-<p>Dibuat dengan ☕ dan <a href="https://www.facebook.com/bungferry.wa">Ferry Ayunda</a></p>
 </main>
 <footer>
-Test
+<p>Dibuat dengan ☕ dan <a href="https://www.facebook.com/bungferry.wa">Ferry Ayunda</a></p>
 </footer>`;
 // shows the alert
 main.innerHTML = externalHTML;
