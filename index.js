@@ -26,6 +26,6 @@ const externalHTML = `
 <p></p>
 <hr>
 <p>Dibuat dengan ☕ dan <a href="https://www.facebook.com/bungferry.wa">Ferry Ayunda</a></p>
-</main>'>`;
+</main>`;
 // shows the alert
 main.innerHTML = externalHTML;
