@@ -9,7 +9,7 @@ const externalHTML = `
 <p>Masukan foto terbaik Anda! selanjutnya <b>Pilih file</b> lalu klik <b>Buat</b> kemudian <b>Download</b>. dan pasang twibbon di media sosial Anda.</p>
 
 <p>
-<img id="preview" src="no_image.png"/>
+<img id="preview" src="image.png"/>
 <img id="twibbon" src="frame.png" style="display: none"/>
 <canvas id="cvs" style="display: none">
 </p>
