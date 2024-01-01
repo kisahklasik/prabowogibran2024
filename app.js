@@ -35,3 +35,19 @@ function drawImage() {
 $("#fileInput").change(function() {
   readURL(this);
 });
+
+// validation
+
+$(document).ready(function() {
+$('#dpwload').bind("click",function() 
+{ 
+var imgVal = $('#fileInput').val(); 
+if(imgVal=='') 
+{ 
+alert("Error!\nTidak ada file yang dipilih! Lanjutkan Download?"); 
+
+} 
+return false; 
+
+}); 
+});
