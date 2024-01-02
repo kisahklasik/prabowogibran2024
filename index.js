@@ -22,7 +22,7 @@ const externalHTML = `
 <button style="font-family:Inconsolata;" class="btn blue" id="dpwload" onclick="drawImage()">Buat</button>
 <a class="btn" href="#" id="dpwload2" download="prabowogibran02.png" style="display: none; color:white;">Download</a>
 </p>
-<p>Bagikan kampanye ini ke media sosial Anda klik <b><span>Share</span></b></p>
+<p>Bagikan kampanye ini ke media sosial Anda klik <b><span>Share</span></b>.</p>
 <p class="result"></p>
 </main>
 <footer>
