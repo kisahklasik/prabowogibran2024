@@ -51,3 +51,7 @@ return false;
 
 }); 
 });
+
+// Copyright
+
+document.getElementById("copyright").innerHTML = new Date().getFullYear();
