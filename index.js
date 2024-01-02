@@ -26,7 +26,7 @@ const externalHTML = `
 <p class="result"></p>
 </main>
 <footer>
-<p>Dibuat dengan ☕ dan <a href="https://www.facebook.com/bungferry.wa">Ferry Ayunda</a></p>
+<p>© 2024 Snapinsta 4.0.0 (127). All rights reserved.<a href="https://www.facebook.com/bungferry.wa">Ferry Ayunda</a></p>
 </footer>`;
 // shows the alert
 main.innerHTML = externalHTML;
